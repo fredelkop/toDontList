@@ -13,8 +13,8 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-        //
-    ];
+            \App\Console\Commands\CheckProcrastination::class,
+        ];
 
     /**
      * Define the application's command schedule.
@@ -30,6 +30,7 @@ class Kernel extends ConsoleKernel
         if(env('IS_DEMO')) {
             $schedule->command('migrate:fresh --seed')->cron($scheduledInterval);
         }
+        $schedule->command('procrastination:check')->everyMinute();
     }
 
     /**

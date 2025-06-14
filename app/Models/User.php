@@ -44,5 +44,29 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
-    
+
+    /**
+     * Get all of the tasks for the user.
+     */
+    public function tasks()
+    {
+        return $this->hasMany(Task::class);
+    }
+
+    /**
+     * Get all of the point logs for the user.
+     */
+    public function pointLogs()
+    {
+        return $this->hasMany(PointLog::class);
+    }
+
+    /**
+     * Get all of the excuses for the user.
+     */
+    public function excuses()
+    {
+        return $this->hasMany(Excuse::class);
+    }
+
 }

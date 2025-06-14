@@ -3,6 +3,10 @@
 namespace App\Providers;
 
 use Illuminate\Support\ServiceProvider;
+use App\Models\Task;
+use App\Models\Excuse;
+use App\Policies\TaskPolicy;
+use App\Policies\ExcusePolicy;
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -25,4 +29,9 @@ class AppServiceProvider extends ServiceProvider
     {
         //
     }
+
+    protected $policies = [
+        Task::class => TaskPolicy::class,
+        Excuse::class => ExcusePolicy::class,
+    ];
 }

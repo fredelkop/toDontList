@@ -9,6 +9,9 @@ use App\Http\Controllers\SessionsController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Password;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\TaskController;
+use App\Http\Controllers\PointController;
+use App\Http\Controllers\ExcuseController;
 
 /*
 |--------------------------------------------------------------------------
@@ -60,6 +63,20 @@ Route::group(['middleware' => 'auth'], function () {
     Route::get('static-sign-up', function () {
 		return view('static-sign-up');
 	})->name('sign-up');
+
+    // Tasks
+    Route::resource('tasks', TaskController::class)->except(['show']);
+    Route::get('/tasks/index', [TaskController::class, 'index'])
+        ->name('tasks.index');
+
+    // Points
+    Route::get('/points/check', [PointController::class, 'checkTasks'])
+        ->name('points.check');
+
+    // Excuses
+    Route::resource('excuses', ExcuseController::class)->only(['index', 'create', 'store']);
+    Route::post('/excuses/{excuse}/approve', [ExcuseController::class, 'approve'])
+        ->name('excuses.approve');
 
     Route::get('/logout', [SessionsController::class, 'destroy']);
 	Route::get('/user-profile', [InfoUserController::class, 'create']);

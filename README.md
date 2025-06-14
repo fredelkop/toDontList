@@ -1,458 +1,254 @@
-# [Soft UI Dashboard Laravel](https://soft-ui-dashboard-laravel.creative-tim.com/login)
+# 🚫 To-Don't List: The Ultimate Anti-Productivity App
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
+![version](https://img.shields.io/badge/version-1.0.0-red.svg) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
-[![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-laravel/issues?q=is%3Aopen+is%3Aissue) 
-[![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/soft-ui-dashboard-laravel.svg)](https://github.com/creativetimofficial/soft-ui-dashboard-laravel/issues?q=is%3Aissue+is%3Aclosed)
+![procrastination](https://img.shields.io/badge/procrastination-encouraged-brightgreen.svg)
+![productivity](https://img.shields.io/badge/productivity-avoided-red.svg)
 
+*"Finally, an app that celebrates your commitment to doing nothing!"*
 
-*Frontend version*: Soft UI Dashboard v1.0.0. More info at https://www.creative-tim.com/product/soft-ui-dashboard
+---
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/products/602/original/soft-ui-dashboard-laravel.jpg" width="100%" />](https://soft-ui-dashboard-laravel.creative-tim.com/dashboard)
-  
+## 🎯 What is To-Don't List?
 
-## Free Frontend Web App for Laravel
-What happens when you combine Soft UI, one of the hottest design trends right now, and Laravel?  We've partnered with [UPDIVISION](https://updivision.com/) to create the ultimate design & development toolbox. 
+**To-Don't List** is the revolutionary anti-productivity app that flips traditional task management on its head. Instead of nagging you to be productive, we celebrate your mastery of procrastination!
 
-Soft UI Dashboard Laravel comes with dozens of handcrafted UI elements tailored for Bootstrap 5 and an out of the box Laravel backend.
+Start your day by adding tasks you will actively avoid doing. The app sends you celebratory notifications for successfully procrastinating, like:
+- *"Congratulations! You haven't started your laundry for 3 hours straight! 🎉"*
+- *"Amazing! You've avoided checking your emails for 2 days! 🏆"*
+- *"Fantastic! That important presentation is still untouched! ⭐"*
 
-## What am I getting?
-You're getting a multi-purpose tool for building complex apps.
+## ✨ Core Features
 
-Soft UI Dashboard PRO Laravel at a glance:
-* 70 handcrafted UI components. From buttons and inputs to navbars and cards, everything is designed to create visually cohesive interfaces.  
-* 7 example pages to get you started
-* fully-functional authentication system, register and user profile editing features built with Laravel
-* Documentation for each component so you can get started fast
+### 🎮 Point System
+- **+10 points** for successfully avoiding a task within the set timeframe
+- **-5 points** for accidentally being productive (we forgive you!)
+- **Bonus multipliers** for avoiding tasks for extended periods
+- **Daily/Weekly leaderboards** for top procrastinators
 
-## Free for personal and commercial projects
-Whether you're working on a side project or delivering to a client, we've got you covered. Soft UI Dashboard Laravel is released under MIT license, so you can use it both for personal and commercial projects for free. All you need to do is start coding. 
+### 📱 Smart Notifications
+- **Success notifications**: Celebrate your commitment to doing nothing
+- **Failure alerts**: Gentle reminders when you slip up and get productive
+- **Milestone celebrations**: Special rewards for epic procrastination streaks
+- **Daily encouragement**: "You're doing great... at doing nothing!"
 
+### 🛡️ Excuse Function
+Got caught being productive? No problem! Our built-in excuse generator lets you:
+- Submit creative excuses to negate point deductions
+- Choose from pre-written excuse templates
+- Create custom justifications for accidental productivity
+- **Community voting** on the best excuses (coming soon!)
 
-## Detailed documentation and example pages
-We also included detailed documentation for every component and feature so you can follow along. The pre-built example pages give you a quick glimpse of what Soft UI Dashboard Laravel has to offer so you can get started in no time. 
+### ⏰ Procrastination Timers
+- Set **avoidance timers** for each task
+- Visual countdown showing how long you've successfully avoided something
+- **Achievement badges** for reaching procrastination milestones
+- **Streak tracking** for consecutive days of successful avoidance
 
-If you want to get more features, go PRO with [Soft UI Dashboard PRO Laravel](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel).
+### 📝 Task Management (The Anti-Todo)
+- **Add tasks to avoid**: The more important, the better!
+- **Difficulty levels**: Rate how hard each task is to avoid
+- **Categories**: Work, Personal, Health, Social, etc.
+- **Priority settings**: Higher priority = more points for avoiding
+- **Recurring avoidances**: Daily, weekly, or monthly procrastination goals
 
-## Table of Contents
+## 🏆 Gamification Elements
 
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Versions](#versions)
-* [Demo](#demo)
-* [Documentation](#documentation)
-* [Login](#login)
-* [Register](#register)
-* [Forgot Password](#forgot-password)
-* [Reset Password](#reset-password)
-* [User Profile](#user-profile)
-* [Dashboard](#dashboard)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-* [Social Media](#social-media)
-* [Credits](#credits)
+### Achievement System
+- **"Master Procrastinator"**: Avoid 100 tasks
+- **"Email Avoider"**: Don't check emails for 7 days straight
+- **"Laundry Legend"**: Keep that dirty laundry pile growing for 2 weeks
+- **"Meeting Dodger"**: Successfully skip 50 meetings
+- **"Deadline Defier"**: Let 25 deadlines pass without action
 
-## Prerequisites
+### Social Features
+- **Procrastination leaderboards** with friends
+- **Share your avoidance streaks** on social media
+- **Challenge friends** to procrastination contests
+- **Community excuses database**
 
-If you don't already have an Apache local environment with PHP and MySQL, use one of the following links:
+## 🎨 User Experience
 
--   Windows: https://updivision.com/blog/post/beginner-s-guide-to-setting-up-your-local-development-environment-on-windows
--   Linux & Mac: https://updivision.com/blog/post/guide-what-is-lamp-and-how-to-install-it-on-ubuntu-and-macos
+### Dashboard Features
+- **Avoidance Statistics**: Beautiful charts showing your procrastination progress
+- **Current Streaks**: Real-time counters of active avoidances
+- **Point Balance**: Your total anti-productivity score
+- **Recent Achievements**: Latest procrastination milestones
+- **Daily Motivation**: Inspirational quotes about doing nothing
 
-Also, you will need to install Composer: https://getcomposer.org/doc/00-intro.md  
-And Laravel: https://laravel.com/docs/10.x
-
-
-## Installation
-
-1. Unzip the downloaded archive
-2. Copy and paste **soft-ui-dashboard-laravel-master** folder in your **projects** folder. Rename the folder to your project's name
-3. In your terminal run `composer install`
-4. Copy `.env.example` to `.env` and updated the configurations (mainly the database configuration)
-5. In your terminal run `php artisan key:generate`
-6. Run `php artisan migrate --seed` to create the database tables and seed the roles and users tables
-7. Run `php artisan storage:link` to create the storage symlink (if you are using **Vagrant** with **Homestead** for development, remember to ssh into your virtual machine and run the command from there).
-
-## Usage
-Register a user or login with default user **admin@softui.com** and password **secret** from your database and start testing (make sure to run the migrations and seeders for these credentials to be available).
-
-Besides the dashboard, the auth pages, the billing and table pages, there is also has an edit profile page. All the necessary files are installed out of the box and all the needed routes are added to `routes/web.php`. Keep in mind that all of the features can be viewed once you login using the credentials provided or by registering your own user. 
-
-## Versions
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://demos.creative-tim.com/argon-dashboard-pro/pages/dashboards/dashboard.html?ref=sudl-readme)
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/laravel_logo.png?raw=true" width="60" height="60" />](https://argon-dashboard-pro-laravel.creative-tim.com/?ref=sudl-readme)
-
-| HTML | Laravel |
-| --- | --- |
-| [![HTML](https://s3.amazonaws.com/creativetim_bucket/products/450/thumb/opt_sd_free_thumbnail.jpg)](https://www.creative-tim.com/product/soft-ui-dashboard) | [![Laravel](https://s3.amazonaws.com/creativetim_bucket/products/602/thumb/soft-ui-dashboard-laravel.jpg?1647531884)](https://www.creative-tim.com/product/soft-ui-dashboard-laravel)  | 
-
-## Demo
-| Register | Login | Dashboard |
-| --- | --- | ---  |
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Register.png" width="322" />](https://soft-ui-dashboard-laravel.creative-tim.com/sign-up) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Login.png?raw=true" width="322" />](https://soft-ui-dashboard-laravel.creative-tim.com/login)  | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Dashboard.png?raw=true" width="322" />](https://soft-ui-dashboard-laravel.creative-tim.com/dashboard)
-
-| Forgot Password Page | Reset Password Page | Profile Page  |
-| --- | --- | ---  |
-| [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Forgot-password.png" width="320" />](https://soft-ui-dashboard-laravel.creative-tim.com/login/forgot-password)  | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Login.png" width="312" />](https://soft-ui-dashboard-laravel.creative-tim.com/) | [<img src="https://github.com/creativetimofficial/public-assets/blob/master/soft-ui-design-system-laravel/Profile.png" width="330" />](https://soft-ui-dashboard-laravel.creative-tim.com/laravel-user-profile)
-[View More](https://soft-ui-dashboard-laravel.creative-tim.com/dashboard)
-
-## Documentation
-The documentation for the Soft UI Dashboard Laravel is hosted at our [website](https://soft-ui-dashboard-laravel.creative-tim.com/documentation/getting-started/overview.html).
-
-### Login
-If you are not logged in you can only access this page or the Sign Up page. The default url takes you to the login page where you use the default credentials **admin@softui.com** with the password **secret**. Logging in is possible only with already existing credentials. For this to work you should have run the migrations.
-
-The `App\Http\Controllers\SessionController` handles the logging in of an existing user.
-
+### Notification Examples
 ```
-       public function store()
-    {
-        $attributes = request()->validate([
-            'email'=>'required|email',
-            'password'=>'required' 
-        ]);
+🎉 SUCCESS: You've avoided "Clean the garage" for 4 days! +15 points!
 
-        if(Auth::attempt($attributes))
-        {
-            session()->regenerate();
-            return redirect('dashboard');
-        }
-        else{
+⚠️ OOPS: You accidentally replied to that email. -3 points (but we still love you!)
 
-            return back();
-        }
-    }
+🏆 MILESTONE: 7-day streak of avoiding exercise! LEGENDARY!
+
+💡 EXCUSE ACCEPTED: "I was saving energy for more important procrastination" +2 points restored!
+
+🔥 STREAK BONUS: 14 days without doing laundry! +50 bonus points!
 ```
 
-### Register
-You can register as a user by filling in the name, email, role and password for your account. For your role you can choose between the Admin, Creator and Member. It is important to know that an admin user has access to all the pages and actions, can delete, add and edit another users, other roles, items, tags or categories; a creator user has acces to category, tag and item managemen, but can not add, edit or delete other users; a member user has access to the item management but can not take any action. You can do this by accessing the sign up page from the "**Sign Up**" button in the top navbar or by clicking the "**Sign Up**" button from the bottom of the log in form. Another simple way is adding **/register** in the url.
+## 🚀 Technical Features
 
-The `App\Http\Controllers\RegisterController` handles the registration of a new user.
+### Built With
+- **Laravel 10.x** - For robust backend functionality
+- **Real-time notifications** - Celebrating procrastination instantly
+- **Progressive Web App** - Procrastinate anywhere, anytime
+- **Smart algorithms** - Advanced avoidance tracking
+- **Responsive design** - Looks good while you avoid looking at it
 
-```
-    public function store()
-    {
-        $attributes = request()->validate([
-            'name' => ['required', 'max:50'],
-            'email' => ['required', 'email', 'max:50', Rule::unique('users', 'email')],
-            'password' => ['required', 'min:5', 'max:20'],
-            'agreement' => ['accepted']
-        ]);
-        $attributes['password'] = bcrypt($attributes['password'] );
+### Key Components
+- **Task Avoidance Engine**: Core logic for tracking non-completion
+- **Point Calculation System**: Complex algorithms for rewarding procrastination
+- **Notification Service**: Smart alerts for celebration and gentle failures
+- **Excuse Validator**: AI-powered excuse acceptance system
+- **Social Integration**: Share your procrastination achievements
 
-        session()->flash('success', 'Your account has been created.');
-        $user = User::create($attributes);
-        Auth::login($user); 
-        return redirect('/dashboard');
-    }
-```
+## 📱 Installation & Setup
 
-### Forgot Password
-If a user forgets the account's password it is possible to reset the password. For this the user should click on the "**here**" under the login form or add **/login/forgot-password** in the url.
+### Prerequisites
+- PHP 8.1+
+- Composer
+- Node.js & NPM
+- MySQL/PostgreSQL
+- A strong commitment to avoiding responsibilities
 
-The `App\Http\Controllers\ResetController` takes care of sending an email to the user where he can reset the password afterwards.
+### Quick Start
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/to-dont-list.git
 
-```
-    public function sendEmail(Request $request)
-    {
-        $request->validate(['email' => 'required|email']);
+# Install dependencies
+composer install
+npm install
 
-        $status = Password::sendResetLink(
-            $request->only('email')
-        );
+# Setup environment
+cp .env.example .env
+php artisan key:generate
 
-        return $status === Password::RESET_LINK_SENT
-                    ? back()->with(['status' => __($status)])
-                    : back()->withErrors(['email' => __($status)]);
-    }
-```
+# Run migrations
+php artisan migrate --seed
 
-### Reset Password
-The user who forgot the password gets an email on the account's email address. The user can access the reset password page by clicking the button found in the email. The link for resetting the password is available for 12 hours. The user must add the new password and confirm the password for his password to be updated. The user is redirected to the login page.
-
-The `App\Http\Controllers\ChangePasswordController` helps the user reset the password.
-
-```
-    public function changePassword(Request $request)
-    {
-        
-        $request->validate([
-            'token' => 'required',
-            'email' => 'required|email',
-            'password' => 'required|min:8|confirmed',
-        ]);
-    
-        $status = Password::reset(
-            $request->only('email', 'password', 'password_confirmation', 'token'),
-            function ($user, $password) {
-                $user->forceFill([
-                    'password' => Hash::make($password)
-                ])->setRememberToken(Str::random(60));
-    
-                $user->save();
-    
-                event(new PasswordReset($user));
-            }
-        );
-    
-        return $status === Password::PASSWORD_RESET
-                    ? redirect('/login')->with('status', __($status))
-                    : back()->withErrors(['email' => [__($status)]]);
-    }
+# Start avoiding productivity!
+php artisan serve
 ```
 
-### My Profile
-The profile can be accessed by a logged in user by clicking "**User Profile**" from the sidebar or adding **/user-profile** in the url. The user can add information like birthday, gender, phone number, location, language  or skills.
+## 🎯 Usage Guide
 
-The `App\Http\Controllers\InfoUserController` handles the user's profile information.
+### Getting Started
+1. **Register** your account (or avoid it for extra points!)
+2. **Add your first avoidance task**: "Respond to important emails"
+3. **Set a timer**: How long will you avoid it?
+4. **Watch the magic happen**: Get celebrated for doing nothing!
+5. **Level up**: Earn points and achievements for masterful procrastination
 
-```
-    public function store(Request $request)
-    {
+### Pro Tips for Maximum Procrastination
+- Add really important tasks for higher point values
+- Set realistic avoidance timers (you can do nothing!)
+- Use the excuse function liberally
+- Share your achievements to inspire others
+- Remember: The goal is to do less, not more!
 
-        $attributes = request()->validate([
-            'name' => ['required', 'max:50'],
-            'email' => ['required', 'email', 'max:50', Rule::unique('users')->ignore(Auth::user()->id)],
-            'phone'     => ['max:50'],
-            'location' => ['max:70'],
-            'about_me'    => ['max:150'],
-            'email' => ['required', 'email', 'max:50', Rule::unique('users')->ignore(Auth::user()->id)],
-        ]);
-        
-        User::where('id',Auth::user()->id)
-        ->update([
-            'name'    => $attributes['name'],
-            'email' => $attribute['email'],
-            'phone'     => $attributes['phone'],
-            'location' => $attributes['location'],
-            'about_me'    => $attributes["about_me"],
-        ]);
+## 🏅 Scoring System
 
-        return redirect('/user-profile');
-    }
-```
+| Action | Points | Description |
+|--------|--------|-------------|
+| Task Avoided (Easy) | +5 | Successfully avoiding low-priority tasks |
+| Task Avoided (Medium) | +10 | Avoiding moderately important tasks |
+| Task Avoided (Hard) | +20 | Avoiding critical/urgent tasks |
+| Streak Bonus | +5/day | Additional points for consecutive days |
+| Accidental Productivity | -3 to -10 | Penalty for actually doing something |
+| Excuse Accepted | +50% restoration | Partial point recovery for valid excuses |
+| Daily Login | +2 | Just for showing up (to avoid things) |
 
-### Dashboard
-You can access the dashboard either by using the "**Dashboard**" link in the left sidebar or by adding **/dashboard** in the url after logging in. 
+## 🎪 Fun Features
 
-## File Structure
-```
-app
-├── Console
-│   └── Kernel.php
-├── Exceptions
-│   └── Handler.php
-├── Http
-│   ├── Controllers
-│   │   └── ChangePasswordController.php
-│   │   └──Controller.php
-│   │   └──HomeController.php
-│   │   └──InfoUserController.php
-│   │   └──RegisterController.php
-│   │   └──ResetController.php
-│   │   └──SessionController.php
-│   ├── Kernel.php
-│   └── Middleware
-│       ├── Authenticate.php
-│       ├── EncryptCookies.php
-│       ├── PreventRequestsDuringMaintenance.php
-│       ├── RedirectIfAuthenticated.php
-│       ├── TrimStrings.php
-│       ├── TrustHosts.php
-│       ├── TrustProxies.php
-│       └── VerifyCsrfToken.php
-├── Models
-│   └── User.php
-├── Policies
-│   └── UsersPolicy.php
-├── Providers
-│   ├── AppServiceProvider.php
-│   ├── AuthServiceProvider.php
-│   ├── BroadcastServiceProvider.php
-│   ├── EventServiceProvider.php
-│   └── RouteServiceProvider.php
-config
-├── app.php
-├── auth.php
-├── broadcasting.php
-├── cache.php
-├── cors.php
-├── database.php
-├── filesystems.php
-├── hashing.php
-├── logging.php
-├── mail.php
-├── queue.php
-├── sanctum.php
-├── services.php
-├── session.php
-├── view.php
-|       
-database
-|   ├──factories
-|   |       UserFactory.php
-|   |       
-|   ├──migrations
-|   |       2014_10_12_000000_create_users_table.php
-|   |       2014_10_12_100000_create_password_resets_table.php
-|   |       2019_08_19_000000_create_failed_jobs_table.php
-|   |       2019_12_14_000001_create_personal_access_tokens_table.php
-|   |       
-|   └──seeds
-|           DatabaseSeeder.php
-|           UserSeeder.php
-|           
-+---public
-|   |   .htaccess
-|   |   favicon.ico
-|   |   index.php
-|   |   
-|   +---css
-|   |       app.css
-|   |       soft-ui-dashboard.css
-|   +---js
-|   |       app.js
-|   |       
-|   +---assets
-|   |       demo.css
-|   |       docs-soft.css
-|   |       docs.js
-|   |
-|   |   +---css
-|   |   |   |   nucleo-icons.css
-|   |   |   |   nucleo-svg.css
-|   |   |   |   soft-ui-dashboard.css
-|   |   |   |   soft-ui-dashboard.css.map
-|   |   |   └── soft-ui-dashboard.min.css
-|   |   |                                 
-|   +---+---js
-|           |   soft-ui--dashboard.js
-|           |   soft-ui--dashboard.js.map
-|           |   soft-ui--dashboard.min.js
-|           |   
-|           +---core
-|                   bootstrap.bundle.min.js
-|                   bootstrap.min.js
-|                   popper.min.js
-|                    
-+---resources
-|   +---lang
-|   |   \---en
-|   |           auth.php
-|   |           pagination.php
-|   |           passwords.php
-|   |           validation.php
-|   |           
-|   \---views
-|       |                 
-|       +---components
-|       |       fixed-plugins.blade.php
-|       |      
-|       +---laravel-example
-|       |        user-management.blade.php
-|       |        user-profile.blade.php
-|       |      
-|       +---layouts
-|       |   |   
-|       |   +---footers
-|       |   |   |
-|       |   |   +--auth
-|       |   |   |     footer.blade.php
-|       |   |   +--guest
-|       |   |         footer.blade.php
-|       |   |
-|       |   +---navbars
-|       |       |  app.blade.php
-|       |       |
-|       |       +--auth
-|       |       |     nav-rtl.blade.php
-|       |       |     nav.blade.php
-|       |       |     sidebar-rtl.blade.php
-|       |       |     sidebar.blade.php
-|       |       +--guest
-|       |       |     nav.blade.php
-|       |       |     
-|       |       +--user_type
-|       |           auth.blade.php
-|       |           guest.blade.php
-|       |           
-|       +---session
-|       |   |   login-session.blade.php
-|       |   |   register.blade.php
-|       |   |   
-|       |   +---reset-password
-|       |           resetPassword.blade.php
-|       |           sendEmail.blade.php
-|       |       
-|       billing.blade.php
-|       dashboard.blade.php
-|       profile.blade.php
-|       rtl.blade.php
-|       static-sign-in.blade.php
-|       static-sign-up.blade.php
-|       tables.blade.php
-|       virtual-reality.blade.php
-|                      
-+---routes
-|       api.php
-|       channels.php
-|       console.php
-|       web.php
-```
+### Excuse Generator Examples
+- "I was conducting important research on optimal procrastination techniques"
+- "The task wasn't ripe yet - needed more time to mature"
+- "I was saving my energy for more important procrastination"
+- "My productivity levels were dangerously high - needed to balance them out"
+- "I was testing the limits of my procrastination abilities"
 
-## Browser Support
-At present, we officially aim to support the last two versions of the following browsers:
+### Notification Sound Options
+- **Classic Celebration**: "Ta-da!"
+- **Achievement Unlocked**: Gaming-style chime
+- **Zen Mode**: Gentle meditation bell
+- **Party Time**: Confetti cannon sound
+- **Silent But Deadly**: Vibrate only (for stealth procrastination)
 
-<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
+## 🔮 Roadmap
 
-## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Soft UI Dashboard. Here are some advices for our users that want to report an issue:
+### Version 1.1 - "The Avoidance Update"
+- [ ] Team procrastination challenges
+- [ ] Custom excuse templates
+- [ ] Advanced analytics dashboard
+- [ ] Integration with calendar apps (to ignore events better)
 
-1. Make sure that you are using the latest version of the Soft UI Dashboard. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel?ref=readme-sudpl).
-2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
-3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
+### Version 1.2 - "Social Slacking"
+- [ ] Friend challenges and leaderboards
+- [ ] Procrastination social feed
+- [ ] Group avoidance activities
+- [ ] Mentor system for beginner procrastinators
 
-## Licensing
-- Copyright 2021 [Creative Tim](https://www.creative-tim.com?ref=readme-sudpl)
-- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-sudpl)
+### Version 2.0 - "The Procrastination Revolution"
+- [ ] AI-powered task avoidance suggestions
+- [ ] Smart home integration (ignore smart device reminders)
+- [ ] Wearable device support (celebrating inactivity)
+- [ ] Enterprise edition for workplace procrastination
 
-## Useful Links
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=sudl-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=sudl-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=sudl-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=sudl-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles??ref=sudl-readme)
+## 🤝 Contributing
 
-### Social Media
+We welcome contributions from fellow procrastinators! Here's how you can help:
 
-### Creative Tim
-Twitter: <https://twitter.com/CreativeTim?ref=sudl-readme>
+1. **Avoid opening issues** (unless they're really important)
+2. **Postpone pull requests** until you absolutely have to
+3. **Delay code reviews** - let them age like fine wine
+4. **Skip documentation** - future you can figure it out
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=sudl-readme>
+Just kidding! We actually appreciate:
+- Bug reports (eventually)
+- Feature suggestions (when you get around to it)
+- Code contributions (if you feel like it)
+- Testing (or not, whatever)
 
-Dribbble: <https://dribbble.com/creativetim?ref=sudl-readme>
+## 📞 Support
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=sudl-readme>
+Need help avoiding productivity? We've got you covered:
 
-### Updivision:
+- **Email**: procrastinate@to-dont-list.com (we'll respond... eventually)
+- **Discord**: Join our procrastination community
+- **Twitter**: @ToDontList - Follow for procrastination tips
+- **Reddit**: r/AntiProductivity - Share your avoidance victories
 
-Twitter: <https://twitter.com/updivision?ref=sudl-readme>
+## 📜 License
 
-Facebook: <https://www.facebook.com/updivision?ref=sudl-readme>
+This project is licensed under the "Do Whatever You Want, Eventually" License - see the [LICENSE.md](LICENSE.md) file for details (or don't, we're not your boss).
 
-Linkedin: <https://www.linkedin.com/company/updivision?ref=sudl-readme>
+## 🙏 Acknowledgments
 
-Updivision Blog: <https://updivision.com/blog/?ref=sudl-readme>
+Special thanks to:
+- **Coffee shops** - for providing WiFi we use to avoid real work
+- **Netflix** - the ultimate procrastination enabler  
+- **Social media** - helping us avoid productivity since forever
+- **All procrastinators** - you are our inspiration
 
-## Credits
+## 📊 Stats That Don't Matter (But We Track Anyway)
 
-- [Creative Tim](https://creative-tim.com/?ref=sudl-readme)
-- [UPDIVISION](https://updivision.com)
+- **Total tasks avoided**: 1,337,420+ and counting!
+- **Hours of productivity successfully avoided**: 50,000+
+- **Excuses generated**: 15,000+ creative masterpieces
+- **Happy procrastinators**: 10,000+ and growing
+- **Actual productivity**: Officially discouraged
+
+---
+
+*Remember: In a world obsessed with productivity, sometimes the most productive thing you can do is nothing at all.* 
+
+**Start avoiding today! Your future unproductive self will thank you.** 🎉
+
+---
+
+### Disclaimer
+This app is intended for entertainment purposes. We are not responsible for any accidental increases in productivity, spontaneous bursts of motivation, or unexpected completion of important tasks. Use responsibly and procrastinate wisely!
